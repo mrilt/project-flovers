@@ -1,0 +1,48 @@
+ <article class="cart" id="products">
+    <a href="" >
+      <img src="../project/images/bouquet_cart1.png" alt="bouquet_cart">
+    </a>
+    <a href="" ><span class="cart__info">Ніжна свіжість: троянди та лілії</span></a>
+    <span  class="cart__info" >445 грн</span>
+    </article>
+<div class="cart" >
+  <a href="">
+    <img src="../project/images/bouquet_cart2.png" alt="bouquet_cart__two">
+  </a>
+    <a href=""><span class="cart__info">Сорбет:
+      хризантеми та троянди</span>
+    </a>
+    <span  class="cart__info">450 грн</span>
+</div>
+<div class="cart" >
+  <a href=""><img src="../project/images/bouquet_cart3.png" alt="bouquet_cart__tree">
+  </a>
+  <a href=""><span class="cart__info">Yellow Song:
+      соняшники та солідаго</span>
+    </a>  
+    <span  class="cart__info">455 грн</span>
+</div>
+<div class="cart">
+  <a href=""><img src="../project/images/bouquet_cart4.png" alt="bouquet_cart__four">
+  </a>
+  <a href=""><span class="cart__info">Персиковий нектар:
+      лілії та троянди</span>
+    </a>  
+    <span  class="cart__info">455 грн</span>
+</div>
+<div class="cart">
+  <a href=""><img src="../project/images/bouquet_cart5.png" alt="bouquet_cart__five">
+  </a>
+  <a href=""><span class="cart__info">Аврора:
+      лілії та троянди</span>
+    </a>  
+    <span  class="cart__info">460 грн</span>
+</div>
+<div class="cart">
+  <a href=""><img src="../project/images/bouquet_cart6.png" alt="bouquet_cart__six">
+  </a>
+  <a href=""><span class="cart__info">Класика кохання:
+      червоних троянд</span>
+    </a>   
+    <span  class="cart__info">460 грн</span>
+</div>
